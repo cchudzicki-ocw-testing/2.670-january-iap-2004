@@ -20,7 +20,7 @@ Stirling Engine Animation
 
 Below is an animation of the 2.670 Stirling engine.
 
-{{< resource 733e5ff7-47ed-9b37-f84d-44827c5652b5 "Stirling engine animation." >}}
+{{< resource "733e5ff7-47ed-9b37-f84d-44827c5652b5" >}}
 
 Animation of the 2.670 Stirling Engine.
 
